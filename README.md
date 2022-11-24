@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Saidkamol Saidjamolov. Born in Uzbekistan, 1997.
+- 👀 I’m interested in programmin in Java.
+- 🌱 I’m currently learning foundation of programming. Started with C.
+- 📫 I wanna see myself as a professional programmer in near future, inshaallah.
